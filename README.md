@@ -42,11 +42,6 @@
 
 ---
 
-## 📂 Featured Projects
-### 🌐 Full Stack Mini Project
-- React Frontend + Spring Boot Backend
-- REST API Integration
-
 ---
 
 ## 🔗 Let's Connect
