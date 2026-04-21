@@ -63,9 +63,9 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](PASTE_YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shristy-738a05387/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:PASTE_YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=blue)](mailto:shristy712@gmail.com)
 
 ---
 
