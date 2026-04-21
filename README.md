@@ -69,4 +69,4 @@
 
 ---
 
-⭐ "Consistency beats talent when talent doesn't stay consistent."
+⭐  “Let's make CODE and CHAT”
