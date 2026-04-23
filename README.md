@@ -51,6 +51,30 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🤖 Gemini Clone
+
+🔗 https://github.com/shristy2004/Gemini-clone
+
+• Built an AI chatbot that generates responses to user queries using API-based integration.
+• Designed an interactive chat interface with real-time message handling.
+• Implemented prompt handling and response rendering for smooth conversation flow.
+• Tech Used: React, JavaScript, API Integration, HTML, CSS
+
+---
+
+### 🌿 AI Plant Disease Detector — LEAFIFY
+
+🔗 https://github.com/shristy2004/AI-Plant-Disease-Detector-LEAFIFY
+
+• Developed a CNN-based image classification model using PyTorch to detect plant leaf diseases.
+• Used Kaggle dataset with image preprocessing, normalization, and augmentation.
+• Built FastAPI backend to handle image uploads and return disease predictions.
+• Improved model reliability using evaluation metrics such as accuracy and F1-score.
+• Tech Used: Python, PyTorch, CNN, FastAPI, NumPy, Pandas
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shristy2004\&show_icons=true\&theme=radical)
