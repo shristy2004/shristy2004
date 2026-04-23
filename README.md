@@ -106,7 +106,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shristy-738a05387/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Shristy%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shristy%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
   
