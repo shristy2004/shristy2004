@@ -134,17 +134,11 @@
 <div align="center">
 
 💬 Open to internships and backend development opportunities
+
 📩 Available for collaboration and technical discussions
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shristy2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
 
 ⭐  “Let's  CODE and CONNECT”
