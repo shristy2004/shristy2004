@@ -88,10 +88,15 @@
 ## 🧠 Core Skills
 
 • Data Structures and Algorithms (Arrays, Linked List, Stack, Queue, Trees)
+
 • Object-Oriented Programming
+
 • REST API Development
+
 • Machine Learning Model Training
+
 • Data Preprocessing and Visualization
+
 • Backend System Development
 
 
@@ -103,4 +108,4 @@
 
 ---
 
-⭐  “Let's  CODE and ”
+⭐  “Let's  CODE and CONNECT”
