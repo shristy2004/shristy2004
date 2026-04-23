@@ -85,6 +85,16 @@
 
 ---
 
+## 🧠 Core Skills
+
+• Data Structures and Algorithms (Arrays, Linked List, Stack, Queue, Trees)
+• Object-Oriented Programming
+• REST API Development
+• Machine Learning Model Training
+• Data Preprocessing and Visualization
+• Backend System Development
+
+
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shristy-738a05387/)
@@ -93,4 +103,4 @@
 
 ---
 
-⭐  “Let's  CODE and CHAT”
+⭐  “Let's  CODE and ”
