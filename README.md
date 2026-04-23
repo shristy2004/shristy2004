@@ -100,12 +100,51 @@
 • Backend System Development
 
 
-## 🔗 Let's Connect
+ 
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shristy-738a05387/)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=blue)](mailto:shristy712@gmail.com)
+<a href="https://www.linkedin.com/in/shristy-738a05387/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Shristy%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+  
+
+<a href="mailto:shristy712@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shristy712%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://github.com/shristy2004">
+  <img src="https://img.shields.io/badge/GitHub-shristy2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://leetcode.com/u/Shristy07/">
+  <img src="https://img.shields.io/badge/LeetCode-Shristy07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+💬 Open to internships and backend development opportunities
+📩 Available for collaboration and technical discussions
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shristy2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
 
 ⭐  “Let's  CODE and CONNECT”
