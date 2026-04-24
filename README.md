@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shristy</h1>
+<h1 align="center">HELLO 👋 I'M SHRISTY</h1>
 <h3 align="center">Aspiring Backend / Full Stack Developer</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 * 🎓 Computer Science Student
 * 💻 Focus on Backend and Full Stack Development
-* 🤖 Interested in AI and Machine Learning
+* 🤖 Interested in AI and Backend Development
 * 🧠 Practice Data Structures and Algorithms
 * 🎯 Goal: Software Engineer
 
@@ -138,7 +138,6 @@
 📩 Available for collaboration and technical discussions
 
 </div>
-
 <br>
 
 ⭐Let's  CODE and CONNECT
