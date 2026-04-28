@@ -3,7 +3,7 @@
 
 ---uygyfu
 
-## 🚀 About Mesilfiurs
+## 🚀 About Me
 
 * 🎓 Computer Science Student
 * 💻 Focus on Backend and Full Stack Development
