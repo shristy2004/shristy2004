@@ -76,6 +76,22 @@
 
 ## 📊 GitHub Stats
 
+---
+
+## 🏆 GSSoC 2026 Badges
+
+<div align="center">
+
+<img src=" gssoc-badge-first_steps.png" width="180"/>
+
+<img src="./profile-complete.png" width="180"/>
+
+<img src="./code-warrior.png" width="180"/>
+
+</div>
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shristy2004\&show_icons=true\&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shristy2004\&theme=radical)
