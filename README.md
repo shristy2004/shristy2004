@@ -80,8 +80,6 @@
 
 ## 🏆 GSSoC 2026 Badges
 
-## 🏆 GSSoC 2026 Badges
-
 <div align="center">
 
 <img src="./gssoc-badge-first_steps.png" width="180"/>
