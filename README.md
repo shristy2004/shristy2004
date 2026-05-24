@@ -7,7 +7,6 @@
 * 🎓 Btech. CSE Student [2023-27]
 * 💻 Focus on Backend and Full Stack Development
 * 🤖 Interested in AI and Backend Development
-* 🧠 Practice Data Structures and Algorithms
 * 🎯 Goal: Software Engineer
 
 
