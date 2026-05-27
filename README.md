@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-
 * 🎓 Btech. CSE Student [2023-27]
 * 💻 Focus on Backend and Full Stack Development
 * 🤖 Interested in AI and Backend Development
 * 🎯 Goal: Software Engineer
+
 
 
 
@@ -36,7 +36,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### ⚙ Development Tools
+### ⚙ Development Tools and Tech 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
