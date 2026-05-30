@@ -154,4 +154,4 @@
 </div>
 <br>
 
-⭐Let's  CODE and CONNECT
+⭐Thanku for visiting
