@@ -115,8 +115,7 @@
 
 
  
-## 🌐 Connect With Me
-
+## 🌐 Connect 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shristy-738a05387/" target="_blank">
